@@ -1,11 +1,11 @@
-import { Black, Span, P } from './Technology.elements'
+import { Black, Span, P, Img } from './Technology.elements'
 
 function Technology() {
   return (
     <div className="Technology">
       <Black>
         <Span>
-          Our Technology<br/><br/>
+          Our Technology
         </Span>
         <P>
           Profitis Prediction Engine<br/><br/>
@@ -16,6 +16,7 @@ function Technology() {
           insights that will enable our customers to reach new heights. Profitis will be a game changer!
         </P>
       </Black>
+      <Img />
     </div>
   );
 }
