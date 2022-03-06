@@ -1,4 +1,4 @@
-import { Img, Overlay, Span, P, Gold } from './Home.elements'
+import { Img, Overlay, Span, P } from './Home.elements'
 
 function Home() {
   return (
@@ -8,7 +8,6 @@ function Home() {
       <Span>Welcome to Aarna<br/>Analytics</Span>
       <P>See the future today</P>
     </Overlay>
-    <Gold />
     </div>
   );
 }

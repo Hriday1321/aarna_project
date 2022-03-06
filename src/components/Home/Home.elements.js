@@ -11,18 +11,14 @@ export const Overlay = styled.div`
   background-color: rgba(0, 0, 0, 0.4);
   text-align: center;
   margin-top: 35%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 `;
 
 export const Span = styled.span`
   color: rgb(245, 186, 78);
   font-weight: 400;
   font-size: 1em;
-`;
-
-export const Gold = styled.div`
-  background: rgb(245, 186, 78);
-  height: 80px;
-  width: 100%;
 `;
 
 export const P = styled.p`
