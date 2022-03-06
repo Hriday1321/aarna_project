@@ -20,5 +20,5 @@ export const Container = styled.div`
 export const Item = styled.a`
   color: white;
   margin: 1%;
-  font-size: 1.1em;
+  font-size: 0.15rem;
 `;
