@@ -21,4 +21,5 @@ export const Item = styled.a`
   color: white;
   margin: 1%;
   font-size: 0.15rem;
+  text-decoration: none;
 `;
