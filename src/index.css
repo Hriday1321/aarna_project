@@ -2,3 +2,7 @@
   margin: 0;
   font: normal normal normal 88px/1.2em questrial,sans-serif;
 }
+
+html{
+  scroll-behavior: smooth;
+}

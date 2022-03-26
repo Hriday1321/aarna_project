@@ -8,10 +8,10 @@ function App() {
   return (
     <div className="App">
     <Nav />
-    <Home />
-    <About />
-    <Technology />
-    <Vision />
+    <section id='home'><Home /></section>
+    <section id='about'><About /></section>
+    <section id='tech'><Technology /></section>
+    <section id='vision'><Vision /></section>
     </div>
   );
 }
